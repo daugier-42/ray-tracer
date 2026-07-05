@@ -30,15 +30,13 @@ Be sure to check out [Keyboard Shortcuts](#keyboard-shortcuts) to fully enjoy th
 
 All frameworks are included
 
-Send me a notification if you find compatibility issues
-
 ## Installing
 
 Install with
 
 ```
-git clone https://github.com/armou/Ray_Tracer.git ~/RT
-cd ~/RT
+git clone https://github.com/daugier-42/ray-tracer.git
+cd ray-tracer
 make
 ```
 
@@ -49,8 +47,6 @@ Start a scene
 ```
 
 Modify and play around with the scene files available in the Scene folder, you can even make your own !
-
-Send me a notification if you find compatibility issues
 
 ### Clean
 
@@ -113,10 +109,9 @@ Object movement (arrows) and rotation (w/a/s/d) use the same controls as the cam
 * [SDL](https://www.libsdl.org/) - The graphic library
 * [OpenCL](https://www.khronos.org/opencl/) - API for parallel programming
 
-## Contact & Copyright
+## Credits
 
-Project done with Dorian AUGIER, David DUFOUR & Guillaume BOURGEOIS
-If you want to contact me, you can send me a mail at aoudin@student.42.fr
+Project by Dorian Augier, David Dufour & Guillaume Bourgeois — École 42.
 
 ### Acknowledgments
 
