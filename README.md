@@ -116,7 +116,7 @@ Object movement (arrows) and rotation (w/a/s/d) use the same controls as the cam
 ## Contact & Copyright
 
 Project done with Dorian AUGIER, David DUFOUR & Guillaume BOURGEOIS
-If you want to contact me, you can send me a mail at aoudin@student.42.fr
+If you want to contact me, you can send me a mail at daugier.dev@gmail.com
 
 ### Acknowledgments
 
