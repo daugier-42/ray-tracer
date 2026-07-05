@@ -111,7 +111,7 @@ Object movement (arrows) and rotation (w/a/s/d) use the same controls as the cam
 
 ## Credits
 
-Project by Dorian Augier, David Dufour & Guillaume Bourgeois — École 42.
+Project by Dorian Augier, David Dufour, Armel Oudin & Guillaume Bourgeois — École 42.
 
 ### Acknowledgments
 
